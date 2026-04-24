@@ -4,3 +4,6 @@
 <img width="1024" height="1024" alt="1" src="https://github.com/user-attachments/assets/961166b7-4dfb-44ea-942f-d27f7413afd8" />
 <img width="1024" height="1024" alt="3" src="https://github.com/user-attachments/assets/503981a4-1950-4b29-a0f8-33f1980752db" />
 <img width="1024" height="1024" alt="2" src="https://github.com/user-attachments/assets/7f533528-bc93-4d45-8107-08bbea3e3f98" />
+git add assets/ public/
+git commit -m "Fix: Upload missing images for hero and services"
+git push origin main
